@@ -1,0 +1,16 @@
+#homeDiv{
+    background-image: url(https://images.unsplash.com/photo-1616088410192-d1b123712994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWluaW1hbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
+    height: 50vh;
+    background-size: contain;
+}
+
+#aboutDiv{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIvg8zt9oEiH89x03dqDju8YmGenwAdbAsuzPgipN7gF9a7pSTHJ0AssaKxmJCdq0MLs&usqp=CAU);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+body{
+    font-family: 'Lobster', cursive;
+}

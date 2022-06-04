@@ -1,0 +1,29 @@
+#img1{
+    float: right;
+}
+
+#homeP{
+    height: 50%;
+    background-color: red;
+}
+/* #p{
+    float: right;
+} */
+
+#homeDiv{
+    margin-bottom: 10%;
+    background-color: aqua;
+}
+
+#aboutDiv{
+    background-color: rebeccapurple;
+    margin-top: 20%;
+}
+
+/* #aboutDiv > p{
+    float: right;
+} */
+
+#aboutDiv > img{
+    clear: right;
+}
